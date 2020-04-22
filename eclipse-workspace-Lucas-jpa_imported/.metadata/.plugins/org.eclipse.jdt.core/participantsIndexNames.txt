@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\AlexandreHoerbeEngel\eclipse-workspace-Lucas-jpa_imported\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1084650872.index
+\MentoriaAle\src
+C:\Users\AlexandreHoerbeEngel\eclipse-workspace-Lucas-jpa_imported\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1217841758.index
+\InserindonoBancodeDados\src
+C:\Users\AlexandreHoerbeEngel\eclipse-workspace-Lucas-jpa_imported\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2343391388.index
+\MavenWebApp\src\main\resources
